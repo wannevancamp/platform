@@ -236,7 +236,7 @@ A full installation guide covering different dev environments is available in th
 Let's start by creating a new project:
 
 ```bash
-> composer create-project shopware/production:dev-flex project
+> composer create-project shopware/production <project-name>
 ```
 
 You now have the application template for the Shopware Platform in the directory `project`, we now change into it:
